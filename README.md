@@ -7,5 +7,7 @@
 
 # 稳定性高，速度快，价格小贵：→boostnet 💰贵点，但速度快且稳定，GPT，GEMINI全支持 需要专属软件          https://999.boostnet1.com/register?code=Qbmacqn0
 
+# 月兔VPN（Tsuki）：公网中转，Hysteria2（UDP）；12元/30天，100G/30天       https://buddahs-temptation.win/tsuki
+
 
 # 最新通用软件下载地址：新版通用软件                                    https://en.v2rayn.org/download/
